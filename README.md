@@ -16,4 +16,3 @@ Findings:
 * Social support and freedom to make life choices remained key predictors of happiness, even during crises.
 Conclusion: This study highlights the nuanced impact of global crises on happiness, demonstrating that economic downturns do not affect all countries uniformly. By leveraging regression models, we gained insights into how external shocks disrupt well-being, informing future policies for economic resilience and public well-being.
 
-Let me know if you’d like any adjustments or if you want a version tailored for a specific audience (e.g., recruiters, data science professionals, policymakers).
